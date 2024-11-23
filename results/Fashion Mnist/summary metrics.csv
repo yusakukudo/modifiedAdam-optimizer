@@ -1,0 +1,4 @@
+Optimizer,Max Training Accuracy,Max Validation Accuracy,Max Test Accuracy,Max Training Precision,Max Validation Precision,Max Test Precision,Max Training Recall,Max Validation Recall,Max Test Recall
+ModifiedAdam,0.9476,0.8913,0.8913,0.9474,0.8908,0.8908,0.9476,0.8913,0.8913
+Adam,0.9641,0.8903,0.8903,0.964,0.89,0.89,0.9641,0.8903,0.8903
+RMSprop,0.8622,0.8527,0.8527,0.8638,0.8567,0.8567,0.8622,0.8527,0.8527

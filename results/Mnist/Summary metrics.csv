@@ -1,0 +1,4 @@
+Optimizer,Min Train Loss,Min Val Loss,Min Test Loss,Max Train Accuracy,Max Val Accuracy,Max Test Accuracy,Max Train F1 Score,Max Val F1 Score,Max Test F1 Score
+ModifiedAdam,0.0142,0.06,0.0793,0.9978,0.984,0.9802,0.9978,0.9839,0.9801
+Adam,0.0028,0.0672,0.0845,0.9992,0.984,0.9796,0.9992,0.9838,0.9793
+RMSprop,0.0801,0.1381,0.1576,0.9816,0.9734,0.9664,0.9817,0.9731,0.9663
